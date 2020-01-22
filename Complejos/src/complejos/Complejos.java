@@ -107,7 +107,7 @@ public class Complejos {
   
   
   public double faseDeUnComplejo(double complejo[]){
-      double anguloRad=Math.atan2(complejo[0], complejo[1]);
+      double anguloRad=Math.atan2(complejo[1], complejo[0]);
       if(anguloRad<0){
           anguloRad+=Math.PI*2;
       }

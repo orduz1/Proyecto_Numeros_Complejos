@@ -6,7 +6,7 @@
 package complejos;
 
 /**
- *En este proyecto realizaremos una calculadora de operaciones basicas entre numeros complejos abc 789
+ *En este proyecto realizaremos una calculadora de operaciones basicas entre numeros complejos abc 12315
  * @author Carlos Javier Orduz Trujillo
  */
 public class Complejos {

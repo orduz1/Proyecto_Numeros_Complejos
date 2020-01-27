@@ -6,7 +6,7 @@
 package complejos;
 
 /**
- *
+ *Permite generr la excepcion al dividir un numero por cero
  * @author Carlos Javier Orduz Trujillo
  */
 public class ExcepcionDivisionPorCero extends Exception {

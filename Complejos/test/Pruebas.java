@@ -24,6 +24,10 @@ public class Pruebas {
         complejos= new Complejos();
     }
     @Test
+    /**
+     * 
+     *  
+     */
     public void sumaComplejosTest(){
         double[]complejo1= {1,2};
         double []complejo2={2,3};

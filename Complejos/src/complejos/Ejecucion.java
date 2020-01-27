@@ -7,7 +7,7 @@ package complejos;
 
 /**
  *
- * @author Carlos Javier Orduz
+ * @author Carlos Javier Orduz Trujillo
  */
 public class Ejecucion {
     public static void main(String args[]){
@@ -15,8 +15,8 @@ public class Ejecucion {
        double complejo1[]= new double[2];
        double complejo2[]= new double[2];
       
-       complejo1[0]=2;
-       complejo1[1]=-5;
+       complejo1[0]=3;
+       complejo1[1]=4;
        
        
          double res=complejos.faseDeUnComplejo(complejo1);

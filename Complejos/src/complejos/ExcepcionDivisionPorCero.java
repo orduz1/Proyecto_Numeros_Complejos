@@ -7,7 +7,7 @@ package complejos;
 
 /**
  *
- * @author cjot6
+ * @author Carlos Javier Orduz Trujillo
  */
 public class ExcepcionDivisionPorCero extends Exception {
     public ExcepcionDivisionPorCero(){
